@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C/BinarySearchTree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C/Hangman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C/ListLibary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C/oxo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeCon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binarysearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/funprograms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop/Java" vcs="Git" />
+  </component>
+</project>
