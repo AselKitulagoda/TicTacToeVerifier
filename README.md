@@ -5,8 +5,7 @@
 ## Challenge
 * This is a two-player game where the players take turns marking the spaces in a 3-by-3 grid with X's and O's.
 * The player who succeeds in placing three of their marks (either X's or O's) in a horizontal, vertical, or diagonal row wins the game.
-1. Write me a class that whose constructor takes in a representation of a 3-by-3 grid
-with the currently placed marks.
+1. Write me a class that whose constructor takes in a representation of a 3-by-3 grid with the currently placed marks.
 2. Add a function to this class that checks the state of the grid and returns whether:
     * The player placing &quot;crosses&quot; (X) has won
     * The player placing &quot;noughts&quot; (O) has won
@@ -16,7 +15,7 @@ for this.
 
 ## To Run
 * Must have JDK 8 installed on your machine refer to [here](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html) for installation.
-* Must have Maven installed on your machine refer to [here](https://maven.apache.org/install.html)
+* Must have Maven installed on your machine refer to [here](https://maven.apache.org/install.html).
 
 1) Input a valid board with the form : ```{{State.O,State.O,State.X},{State.X,State.X,State.O},{State.X,State.O,State.X}}``` which constitutes a ***3x3*** board.
 2) Run the following command from the root directory ```mvn clean compile exec:java```.
